@@ -1,0 +1,7 @@
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\bin\Debug\Threads.exe.config
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\bin\Debug\Threads.exe
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\bin\Debug\Threads.pdb
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\obj\Debug\Threads.exe
+C:\Users\kemro\source\repos\HomeWork_08_08_19\Threads\obj\Debug\Threads.pdb
